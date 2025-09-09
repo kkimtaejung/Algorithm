@@ -2,6 +2,8 @@
 
 <details>
 
+ <img width="1180" height="694" alt="image" src="https://github.com/user-attachments/assets/9e764324-973d-40ce-9f4b-fcd871888458" />
+ 
  <summary> 백준 - 소수 구하기 </summary>
  
   * [1929 - 2025.09.09](1929_s3_20250909.py)
