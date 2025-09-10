@@ -4,7 +4,7 @@
 
  <img width="1180" height="694" alt="image" src="https://github.com/user-attachments/assets/9e764324-973d-40ce-9f4b-fcd871888458" />
  
- <summary> 백준 - 소수 구하기 </summary>
+ <summary> 백준 - 소수 구하기(완) </summary>
  
   * [1929 - 2025.09.09](1929_s3_20250909.py)
   
@@ -24,5 +24,21 @@
       
     b!=1 일때만 반복문 실행되도록 수정
     > 정답
+
+</details>
+
+<details>
+
+ <img width="984" height="1241" alt="image" src="https://github.com/user-attachments/assets/c4e87db8-31e4-4bf8-b4b7-8f6d1a4bf650" />
+
+ 
+ <summary> 백준 - 소수 구하기(도전 중) </summary>
+ 
+  * [18110 - 2025.09.10](18110_s4_20250910.py)
+  
+    생각의 흐름은 다음과 같음.
+    
+    예제 2번이 잘 이해가 되지 않음, N 에 대한 좌우 15% 씩 제외하고 더한 값들을 나누면 12가 나옴, 13이 어떻게 나오지?
+    > 문제못품
 
 </details>
