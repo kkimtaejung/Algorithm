@@ -32,7 +32,7 @@
  <img width="984" height="1241" alt="image" src="https://github.com/user-attachments/assets/c4e87db8-31e4-4bf8-b4b7-8f6d1a4bf650" />
 
  
- <summary> 백준 - 소수 구하기(도전 중) </summary>
+ <summary> 백준 - 소수 구하기(완) </summary>
  
   * [18110 - 2025.09.10](18110_s4_20250910.py)
   
@@ -54,3 +54,40 @@
     
 
 </details>
+
+<details>
+
+ <img width="882" height="767" alt="image" src="https://github.com/user-attachments/assets/00daa683-e950-4bce-b076-fbf3c9ae3dcc" />
+
+ 
+ <summary> 백준 - 1로 만들기(도전 중) </summary>
+ 
+  * [...](...)
+  
+    생각의 흐름은 다음과 같음.
+    
+    ...
+    > ...
+    
+
+</details>
+
+<details>
+
+ <img ... />
+
+ 
+ <summary> ... </summary>
+ 
+  * [...](...)
+  
+    생각의 흐름은 다음과 같음.
+    
+    ...
+    > ...
+    
+
+</details>
+
+
+
