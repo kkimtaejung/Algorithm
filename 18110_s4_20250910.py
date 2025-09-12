@@ -1,18 +1,20 @@
-n = int(input())
+import sys
+n, *rest = map(int, sys.stdin.buffer.read().split()) # 첫 숫자는 n, 나머지는 rest 리스트에 담기
+if n == 0:
+    print(0)
+    raise SystemExit
+b = rest[:n]
 
-c = 0
-s = 0
+k = ((n * 15 + 50) // 100)  # 0~50% 사이 정수 반올림
+j = n - 2*k                 # 50~100% 사이 정수 반올림
 
-for i in range(n):
 
-    a = int(input())
+b = sorted(b)
+b = b[k:n-k]            # 슬라이싱 기법
 
-    if i>=int(round(n*0.15)) and i<=int(round(n*0.85)):
-        #if i>=int(round(n*0.85)):
-        #    print(round(s/c))
-        #    break
-        c += 1
-        s += a
-        print(c,s, s/c)
+res = sum(b) / j
 
-print(round(s/c))
+if (res - int(res))*10 >= 5:
+    res = res + 1
+
+print(int(res))
